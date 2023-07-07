@@ -2,7 +2,7 @@
  Temperature Converter App
  
 ## Live Demo Link
-<a href="https://melihkocc.github.io/TimeCalculatingApp/">Demo Link</a>
+<a href="https://melihkocc.github.io/TemperatureConverter/">Demo Link</a>
 
 ## Technologies
 · HTML<br>
